@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 <p><strong>IDE</strong></p>
 <div>
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
-    <img src="https://camo.githubusercontent.com/c891389a25d8399ac59099761b21a8b84fb064a40b486792b10df9413cf6293b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465">
     <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=Vim&logoColor=white"> 
 </div>
 <p><strong>Framework</strong></p>
