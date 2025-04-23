@@ -35,15 +35,21 @@ Here are some ideas to get you started:
 </div>
 <p><strong>IDE</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">
+    <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=Vim&logoColor=white"> 
 </div>
 <p><strong>Framework</strong></p>
 <div>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
     <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=for-the-badge">
+</div>
+<p><strong>Infra</strong></p>
+<div>
+      <img src="https://img.shields.io/badge/Amazon EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white">
+      <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white">
 </div>
 <p><strong>Version Control</strong></p>
 <div>
